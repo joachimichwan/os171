@@ -1,0 +1,5 @@
+w00-070217-PS-creating google account, github account, ang registration to OS class
+w00-080217-PS-learning to login to server badak.cs.ui.ac.id
+w01-130217-PS-learn hot to create new file, delete file, and move file
+w01-130217-PS-learn to use vi and nano for text editor also learn hot to scripting
+
