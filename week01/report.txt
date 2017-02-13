@@ -1,0 +1,3 @@
+Belajar untuk membuat file baru dalam repository
+Belajar melakukan push dan pull file
+
