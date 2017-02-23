@@ -11,3 +11,9 @@ w01-130217-PS-learn to use vi and nano for text editor also learn hot to scripti
 w01-140217-LR-IPR and scripting(class)
 w01-140217-LR-IPR and scripting(class)
 w01-140217-LR-IPR and scripting(class)
+w01-160217-LR-scripting(class)
+w01-160217-LR-scripting(class)
+w01-160217-LR-scripting(class)
+w02-180217-PS-learn to use winscp, privacy matters, encryption and digital signature using GnuPG
+w02-180217-PS-learn to use winscp, privacy matters, encryption and digital signature
+w02-190217-PS-learn to write C
