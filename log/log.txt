@@ -17,3 +17,10 @@ w01-160217-LR-scripting(class)
 w02-180217-PS-learn to use winscp, privacy matters, encryption and digital signature using GnuPG
 w02-180217-PS-learn to use winscp, privacy matters, encryption and digital signature
 w02-190217-PS-learn to write C
+w02-140217-LR-security and protection(class)
+w02-140217-LR-security and protection(class)
+w02-140217-LR-security and protection(class)
+w02-160217-LR-security and protection(class)
+w02-160217-LR-security and protection(class)
+w02-160217-LR-security and protection(class)
+w03-260217-PS-learn about boot and startup script
