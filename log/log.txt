@@ -24,3 +24,9 @@ w02-160217-LR-security and protection(class)
 w02-160217-LR-security and protection(class)
 w02-160217-LR-security and protection(class)
 w03-260217-PS-learn about boot and startup script
+w03-280217-LR-BIOS, boot process and upstart
+w03-280217-LR-BIOS, boot process and upstart
+w03-280217-LR-BIOS, boot process and upstart
+w03-020317-LR-BIOS, boot process and upstart and introduction to pointer
+w03-020317-LR-BIOS, boot process and upstart and introduction to pointer
+w03-020317-LR-BIOS, boot process and upstart and introduction to pointer
