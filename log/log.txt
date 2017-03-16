@@ -30,3 +30,20 @@ w03-280217-LR-BIOS, boot process and upstart
 w03-020317-LR-BIOS, boot process and upstart and introduction to pointer
 w03-020317-LR-BIOS, boot process and upstart and introduction to pointer
 w03-020317-LR-BIOS, boot process and upstart and introduction to pointer
+w04-170305-PS-Pointer, I/O 
+w04-170305-PS-Pointer, I/O 
+w04-170305-PS-Pointer, I/O 
+w04-170307-LR-Addressing and pointer
+w04-170307-LR-Addressing and pointer
+w04-170307-LR-Addressing and pointer
+w04-170307-LR-Addressing and pointer
+w04-170307-LR-I/O programming
+w04-170307-LR-I/O programming
+w04-170307-LR-I/O programming
+w04-170307-LR-I/O programming
+w05-170312-PS-Memory and top in tutorial 5
+w05-170312-PS-Memory and top in tutorial 5
+w05-170314-LR-Binding and Linking memory
+w05-170314-LR-Binding and Linking memory
+w05-170314-LR-Binding and Linking memory
+w05-170314-LR-Binding and Linking memory
