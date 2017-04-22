@@ -62,3 +62,13 @@ w06-170413-LR-About: Thread and fork
 w06-170413-LR-About: Thread and fork
 w06-170413-LR-About: Thread and fork
 w06-170415-PS-WEEK06 tutorial
+w07-170418-LR-listening to lecture
+w07-170418-LR-listening to lecture
+w07-170418-LR-listening to lecture
+w07-170420-LR-listening to lecture
+w07-170420-LR-listening to lecture
+w07-170420-LR-listening to lecture
+w07-170421-PS-doing lab07
+w07-170421-PS-doing lab07
+w07-170421-PS-doing lab07
+w07-170422-PS-doing lab07
